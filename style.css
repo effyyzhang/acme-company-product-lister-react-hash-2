@@ -1,0 +1,11 @@
+.selected{
+    color: orange;
+}
+
+nav{
+    display: flex;
+}
+
+a{
+    width: 200px;
+}
